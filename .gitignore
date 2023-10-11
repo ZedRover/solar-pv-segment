@@ -1,0 +1,6 @@
+wandb
+ultralytics
+runs
+pretrained
+**/*.tif
+**/*.tiff

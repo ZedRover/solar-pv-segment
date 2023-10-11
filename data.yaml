@@ -1,0 +1,5 @@
+train: ./data/train.txt  # 训练图像的路径
+val: ./data/val.txt  # 验证图像的路径
+
+nc: 1  # 类别的数量
+names: ['pv']  # 类别的名称
