@@ -4,3 +4,4 @@ runs
 pretrained
 **/*.tif
 **/*.tiff
+*.pt
